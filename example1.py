@@ -7,3 +7,5 @@ print("This change was made in second-branch.")
 print("This row is added in remote master.")
 
 print("Next one, for PULL test.")
+
+print("We are changing example1.py in local.")
